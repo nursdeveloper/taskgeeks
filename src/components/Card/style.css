@@ -1,0 +1,16 @@
+.cardd {
+  background: black;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.card {
+  padding: 10px;
+  width: 200px;
+  height: 100px;
+  background: grey;
+  border-radius: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
